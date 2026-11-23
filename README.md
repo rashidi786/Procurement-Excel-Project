@@ -1,8 +1,8 @@
-\# Phoenix Enviro Tech – Procurement Analytics Project
+# Phoenix Enviro Tech – Procurement Analytics Project
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -10,11 +10,11 @@ This project focuses on analyzing procurement operations at Phoenix Enviro Tech 
 
 
 
-\## Dashboard Preview
+## Dashboard Preview
 
 
 
-\### 1. Procurement Dashboard
+### 1. Procurement Dashboard
 
 
 
@@ -22,7 +22,7 @@ This project focuses on analyzing procurement operations at Phoenix Enviro Tech 
 
 
 
-\### 2. Procurement Insights Dashboard
+### 2. Procurement Insights Dashboard
 
 
 
@@ -30,45 +30,45 @@ This project focuses on analyzing procurement operations at Phoenix Enviro Tech 
 
 
 
-\## Project Objectives
+## Project Objectives
 
 
 
-\- Analyze purchase orders and procurement spending.
+- Analyze purchase orders and procurement spending.
 
-\- Evaluate vendor performance and purchasing patterns.
+- Evaluate vendor performance and purchasing patterns.
 
-\- Analyze material-wise and project-wise expenses.
+- Analyze material-wise and project-wise expenses.
 
-\- Monitor delivery and invoice information.
+- Monitor delivery and invoice information.
 
-\- Identify important trends and areas for improvement.
+- Identify important trends and areas for improvement.
 
-\- Support management decision-making through data analysis and dashboards.
-
-
-
-\## Tools \& Technologies
+- Support management decision-making through data analysis and dashboards.
 
 
 
-\- Microsoft Excel
-
-\- Excel Formulas and Functions
-
-\- Data Cleaning
-
-\- PivotTables
-
-\- PivotCharts
-
-\- Interactive Dashboards
-
-\- Data Analysis and Visualization
+## Tools & Technologies
 
 
 
-\## Dataset Description
+- Microsoft Excel
+
+- Excel Formulas and Functions
+
+- Data Cleaning
+
+- PivotTables
+
+- PivotCharts
+
+- Interactive Dashboards
+
+- Data Analysis and Visualization
+
+
+
+## Dataset Description
 
 
 
@@ -76,19 +76,19 @@ The project uses procurement-related datasets covering:
 
 
 
-\- Vendors
+- Vendors
 
-\- Materials
+- Materials
 
-\- Projects
+- Projects
 
-\- Employees
+- Employees
 
-\- Purchase Orders
+- Purchase Orders
 
-\- Deliveries
+- Deliveries
 
-\- Invoices
+- Invoices
 
 
 
@@ -96,7 +96,7 @@ The datasets are used to perform procurement analysis and generate meaningful bu
 
 
 
-\## Project Files
+## Project Files
 
 
 
@@ -104,31 +104,31 @@ The datasets are used to perform procurement analysis and generate meaningful bu
 
 |---|---|
 
-| \[Final Excel Project](Phoenix\_Enviro\_Tech\_Procurement\_Project.xlsx) | Final procurement analysis workbook |
+| [Final Excel Project](Phoenix\_Enviro\_Tech\_Procurement\_Project.xlsx) | Final procurement analysis workbook |
 
-| \[Raw Data](Phoenix\_Procurement\_Project\_Raw\_Data.xlsx) | Original procurement datasets |
-
-
-
-\## Key Business Areas Analyzed
+| [Raw Data](Phoenix\_Procurement\_Project\_Raw\_Data.xlsx) | Original procurement datasets |
 
 
 
-\- Vendor-wise procurement spending
-
-\- Material-wise purchasing analysis
-
-\- Project-wise procurement costs
-
-\- Purchase order analysis
-
-\- Delivery and invoice analysis
-
-\- Procurement trends and business insights
+## Key Business Areas Analyzed
 
 
 
-\## Business Value
+- Vendor-wise procurement spending
+
+- Material-wise purchasing analysis
+
+- Project-wise procurement costs
+
+- Purchase order analysis
+
+- Delivery and invoice analysis
+
+- Procurement trends and business insights
+
+
+
+## Business Value
 
 
 
@@ -136,7 +136,7 @@ This project demonstrates how Excel can be used to analyze procurement data, ide
 
 
 
-\## Conclusion
+## Conclusion
 
 
 
@@ -144,13 +144,13 @@ The Phoenix Enviro Tech Procurement Analytics Project demonstrates practical dat
 
 
 
-\---
+---
 
 
 
-\*\*Project Category:\*\* Excel Data Analytics  
+**Project Category:** Excel Data Analytics  
 
-\*\*Tool:\*\* Microsoft Excel  
+**Tool:** Microsoft Excel  
 
-\*\*Project Type:\*\* Procurement Analytics
+**Project Type:** Procurement Analytics
 
