@@ -93,21 +93,6 @@ The project uses procurement-related datasets covering:
 
 
 The datasets are used to perform procurement analysis and generate meaningful business insights.
-
-
-
-## Project Files
-
-
-
-**File Description**
-
-[Final Excel Project](Phoenix\_Enviro\_Tech\_Procurement\_Project.xlsx) Final procurement analysis workbook
-
-[Raw Data](Phoenix\_Procurement\_Project\_Raw\_Data.xlsx)   Original procurement datasets 
-
-
-
 ## Key Business Areas Analyzed
 
 
