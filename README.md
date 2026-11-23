@@ -100,13 +100,11 @@ The datasets are used to perform procurement analysis and generate meaningful bu
 
 
 
-| File | Description |
+**File Description**
 
-|---|---|
+[Final Excel Project](Phoenix\_Enviro\_Tech\_Procurement\_Project.xlsx) Final procurement analysis workbook
 
-| [Final Excel Project](Phoenix\_Enviro\_Tech\_Procurement\_Project.xlsx) | Final procurement analysis workbook |
-
-| [Raw Data](Phoenix\_Procurement\_Project\_Raw\_Data.xlsx) | Original procurement datasets |
+[Raw Data](Phoenix\_Procurement\_Project\_Raw\_Data.xlsx)   Original procurement datasets 
 
 
 
