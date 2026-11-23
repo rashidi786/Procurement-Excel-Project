@@ -18,7 +18,7 @@ This project focuses on analyzing procurement operations at Phoenix Enviro Tech 
 
 
 
-![Procurement Dashboard](Phoenix Dashboard png.png)
+![Procurement Dashboard](<Phoenix Dashboard png.png>)
 
 
 
