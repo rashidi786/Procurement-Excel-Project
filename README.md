@@ -26,7 +26,7 @@ This project focuses on analyzing procurement operations at Phoenix Enviro Tech 
 
 
 
-![Procurement Insights](Phoenix Insights png.png)
+![Procurement Insights](<Phoenix Insights png.png>)
 
 
 
